@@ -1,2 +1,2 @@
-# anime
-Интенсив Glo Academy
+# Glo Academy Anime intensive
+Glo Academy Anime intensive
